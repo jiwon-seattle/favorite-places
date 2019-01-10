@@ -1,0 +1,12 @@
+.head1 {
+  font-style: oblique;
+  font-size: 50px;
+  color: blue
+}
+.head2 {
+  font-weight: bold;
+  font-family: monospace;
+}
+.head3 {
+  border: solid green;
+}
